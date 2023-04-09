@@ -5,6 +5,7 @@ info:
   version: 1.0.0
   servers:
     - url: https://plankton-app-3dkmf.ondigitalocean.app
+  paths: 
   /query:
     post:
       summary: Query
